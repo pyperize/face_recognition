@@ -1,0 +1,3 @@
+from packages.face_recognition.algorithm.config import FaceRecognitionConfig, FaceRecognitionConfigUI
+from packages.face_recognition.algorithm.function import FaceRecognitionFunction, FaceRecognitionInput, FaceResult
+from packages.face_recognition.algorithm.pipe import FaceRecognitionPipe
